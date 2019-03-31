@@ -1,0 +1,22 @@
+.sideBar {
+  background: #f7f9fa;
+
+  width: 240px;
+  min-width: 240px;
+  height: 100%;
+  position: absolute;
+
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.pageContent {
+  height: 100%;
+  margin-left: 240px;
+  padding-top: 20px;
+}
+
+.categoryItem {
+  font-weight: 600;
+  color: blue !important;
+}
